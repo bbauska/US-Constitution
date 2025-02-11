@@ -1,16 +1,9 @@
-<!-- Zombie Politics -->
+<!-- the us constitution -->
 🧟
-<h6>Zombie Politics</h6>
+<h6>the US Constitution</h6>
 <h6>Brian Bauska (2025)</h6>
-<h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
-and Threat of Authoritarianism (cadaver animatum)</h2>
-<p>Education is the point at which we decide whether we love the world enough to assume
-responsibility for it and by the same token save it from ruin which, except for renewal, 
-except for the coming of the new and young, would be inevitable. And education, too, is 
-where we decide whether we love our children enough not to expel them from our world and 
-leave them to their own devices, nor to strike from their hands their chance of 
-undertaking some­thing new, something unforeseen by us, but to prepare them in advance 
-for the task of renew­ing a common world.</p>
+<h2 class="chapter-title">preamble</h2>
+<p>We the people of the United States, in order to form a</p>
 
 <h2 class="chapter-title">Zombie Politics<br>
 and Culture in the Age of Casino Capitalism</h2>
