@@ -407,17 +407,17 @@ United States, shall be removed from Office on Impeach-
 ment for, and Conviction of, Treason, Bribery, or other
 high Crimes and Misdemeanors.</p>
 
-Article. III.
-SECTION. 1
-The judicial Power of the United States, shall be vested
+<h2>Article. III.</h2>
+<h3>SECTION. 1</h3>
+<p>The judicial Power of the United States, shall be vested
 in one supreme Court, and in such inferior Courts as the
 Congress may from time to time ordain and establish. The
 Judges, both of the supreme and inferior Courts, shall hold
 their Offices during good Behaviour, and shall at stated
 Times, receive for their Services, a Compensation, which
-shall not be diminished during their Continuance in Office.
-SECTION. 2
-The judicial Power shall extend to all Cases, in Law and
+shall not be diminished during their Continuance in Office.</p>
+<h3>SECTION. 2</h3>
+<p>The judicial Power shall extend to all Cases, in Law and
 Equity, arising under this Constitution, the Laws of the
 United States, and Treaties made, or which shall be made,
 under their Authority; - to all Cases affecting Ambassa-
@@ -428,21 +428,21 @@ between two or more States; - [between a State and Citizens
 of another State;-]* between Citizens of different States,
 - between Citizens of the same State claiming Lands under
 Grants of different States, [and between a State, or the Citi-
-zens thereof;- and foreign States, Citizens or Subjects.]*
-In all Cases affecting Ambassadors, other public Ministers
+zens thereof;- and foreign States, Citizens or Subjects.]*</p>
+<p>In all Cases affecting Ambassadors, other public Ministers
 and Consuls, and those in which a State shall be Party, the
 supreme Court shall have original Jurisdiction. In all the
 other Cases before mentioned, the supreme Court shall
 have appellate Jurisdiction, both as to Law and Fact, with
 such Exceptions, and under such Regulations as the Con-
-gress shall make.
-The Trial of all Crimes, except in Cases of Impeachment;
+gress shall make.</p>
+<p>The Trial of all Crimes, except in Cases of Impeachment;
 shall be by Jury; and such Trial shall be held in the State
 where the said Crimes shall have been committed; but when
 not committed within any State, the Trial shall be at such
-Place or Places as the Congress may by Law have directed.
-SECTION. 3
-Treason against the United States, shall consist only in levy-
+Place or Places as the Congress may by Law have directed.</p>
+<h3>SECTION. 3</h3>
+<p>Treason against the United States, shall consist only in levy-
 ing War against them, or in adhering to their Enemies, giv-
 ing them Aid and Comfort. No Person shall be convicted
 of Treason unless on the Testimony of two Witnesses to the
@@ -450,49 +450,48 @@ same overt Act, or on Confession in open Court.
 The Congress shall have Power to declare the Punishment
 of Treason, but no Attainder of Treason shall work Corrup-
 tion of Blood, or Forfeiture except during the Life of the
-Person attainted
-C O N S T I T U T I O N O F T H E U N I T E D S T A T E S
-Article. IV.
-SECTION. 1
-Full Faith and Credit shall be given in each State to the
+Person attainted.</p>
+<h2>Article. IV.</h2>
+<h3>SECTION. 1</h3>
+<p>Full Faith and Credit shall be given in each State to the
 public Acts, Records, and judicial Proceedings of every oth-
 er State. And the Congress may by general Laws prescribe
 the Manner in which such Acts, Records and Proceedings
-shall be proved, and the Effect thereof.
-SECTION. 2
-The Citizens of each State shall be entitled to all Privileges
+shall be proved, and the Effect thereof.</p>
+<h3>SECTION. 2</h3>
+<p>The Citizens of each State shall be entitled to all Privileges
 and Immunities of Citizens in the several States
 A Person charged in any State with Treason, Felony, or
 other Crime, who shall flee from Justice, and be found in
 another State, shall on Demand of the executive Author-
 ity of the State from which he fled, be delivered up, to be
-removed to the State having Jurisdiction of the Crime.
-No Person held to Service or Labour in one State, under
+removed to the State having Jurisdiction of the Crime.</p>
+<p>No Person held to Service or Labour in one State, under
 the Laws thereof, escaping into another, shall, in Conse-
 quence of any Law or Regulation therein, be discharged
 from such Service or Labour, but shall be delivered up on
 Claim of the Party to whom such Service or Labour may be
-due.]*
-SECTION. 3
-New States may be admitted by the Congress into this
+due.]*</p>
+<h3>SECTION. 3</h3>
+<p>New States may be admitted by the Congress into this
 Union; but no new State shall be formed or erected within
 the Jurisdiction of any other State; nor any State be formed
 by the Junction of two or more States, or Parts of States,
 without the Consent of the Legislatures of the States con-
-cerned as well as of the Congress.
-The Congress shall have Power to dispose of and make all
+cerned as well as of the Congress.</p>
+<p>The Congress shall have Power to dispose of and make all
 needful Rules and Regulations respecting the Territory or
 other Property belonging to the United States; and nothing
 in this Constitution shall be so construed as to Prejudice
-any Claims of the United States, or of any particular State.
-SECTION. 4
-The United States shall guarantee to every State in this
+any Claims of the United States, or of any particular State.</p>
+<h3>SECTION. 4</h3>
+<p>The United States shall guarantee to every State in this
 Union a Republican Form of Government, and shall
 protect each of them against Invasion; and on Application
 of the Legislature, or of the Executive (when the Legislature
-cannot be convened) against domestic Violence.
-Article. V.
-The Congress, whenever two thirds of both Houses shall
+cannot be convened) against domestic Violence.</p>
+<h2>Article. V.</h2>
+<p>The Congress, whenever two thirds of both Houses shall
 deem it necessary, shall propose Amendments to this Con-
 stitution, or, on the Application of the Legislatures of two
 thirds of the several States, shall call a Convention for pro-
@@ -506,37 +505,36 @@ made prior to the Year One thousand eight hundred and
 eight shall in any Manner affect the first and fourth Clauses
 in the Ninth Section of the first Article; and that no State,
 without its Consent, shall be deprived of its equal Suffrage
-in the Senate
-C O N S T I T U T I O N O F T H E U N I T E D S T A T E S
-Article. VI.
-All Debts contracted and Engagements entered into, before
+in the Senate.</p>
+<h2>Article. VI.</h2>
+<p>All Debts contracted and Engagements entered into, before
 the Adoption of this Constitution, shall be as valid against
 the United States under this Constitution, as under the
-Confederation
-This Constitution, and the Laws of the United States
+Confederation.</p>
+<p>This Constitution, and the Laws of the United States
 which shall be made in Pursuance thereof; and all Treaties
 made, or which shall be made, under the Authority of the
 United States, shall be the supreme Law of the Land; and
 the Judges in every State shall be bound thereby, any Thing
 in the Constitution or Laws of any State to the Contrary
-notwithstanding.
-The Senators and Representatives before mentioned, and
+notwithstanding.</p>
+<p>The Senators and Representatives before mentioned, and
 the Members of the several State Legislatures, and all execu-
 tive and judicial Officers, both of the United States and of
 the several States, shall be bound by Oath or Affirmation,
 to support this Constitution; but no religious Test shall ever
 be required as a Qualification to any Office or public Trust
-under the United States
-Article. VII.
-The Ratification of the Conventions of nine States, shall
+under the United States.</p>
+<h2>Article. VII.</h2>
+<p>The Ratification of the Conventions of nine States, shall
 be sufficient for the Establishment of this Constitution
-between the States so ratifying the Same.
-Done in Convention by the Unanimous Consent of the
+between the States so ratifying the Same.</p>
+<p>Done in Convention by the Unanimous Consent of the
 States present the Seventeenth Day of September in the
 Year of our Lord one thousand seven hundred and Eighty
 seven and of the Independence of the United States of
 America the Twelfth In Witness whereof We have hereunto
-subscribed our Names,
+subscribed our Names,</p>
 Go. Washington--Presidt:
 and deputy from Virginia
 NEW HAMPSHIRE
@@ -564,7 +562,6 @@ Thos. FitzSimons
 Jared Ingersoll
 James Wilson
 Gouv Morris
-C O N S T I T U T I O N O F T H E U N I T E D S T A T E S
 DELAWARE
 Geo: Read
 Gunning Bedford jun
@@ -599,24 +596,24 @@ New Hampshire, Massachusetts, Connecticut, Mr. Ham-
 ilton from New York, New Jersey, Pennsylvania, Delaware,
 Maryland, Virginia, North Carolina, South Carolina and
 Georgia.
-Resolved,
-That the preceeding Constitution be laid before the United
+<p>Resolved,</p>
+<p>That the preceeding Constitution be laid before the United
 States in Congress assembled, and that it is the Opinion
 of this Convention, that it should afterwards be submitted
 to a Convention of Delegates, chosen in each State by the
 People thereof, under the Recommendation of its Legisla-
 ture, for their Assent and Ratification; and that each Con-
 vention assenting to, and ratifying the Same, should give
-Notice thereof to the United States in Congress assembled.
-Resolved, That it is the Opinion of this Convention, that
+Notice thereof to the United States in Congress assembled.</p>
+<p>Resolved, That it is the Opinion of this Convention, that
 as soon as the Conventions of nine States shall have ratified
 this Constitution, the United States in Congress assembled
 should fix a Day on which Electors should be appointed by
 the States which shall have ratified the same, and a Day on
 which the Electors should assemble to vote for the Presi-
 dent, and the Time and Place for commencing Proceedings
-under this Constitution
-That after such Publication the Electors should be ap-
+under this Constitution.</p>
+<p>That after such Publication the Electors should be ap-
 pointed, and the Senators and Representatives elected: That
 the Electors should meet on the Day fixed for the Election
 of the President, and should transmit their Votes certified,
@@ -628,19 +625,20 @@ a President of the Senate, for the sole Purpose of receiving,
 opening and counting the Votes for President; and, that
 after he shall be chosen, the Congress, together with the
 President, should, without Delay, proceed to execute this
-Constitution
-By the unanimous Order of the Convention
+Constitution.</p>
+<p>By the unanimous Order of the Convention</p>
 Go. Washington-Presidt:
 W. JACKSON Secretary.
-* Language in brackets has been changed by amendment.
-THE AMENDMENTS TO THE CONSTITUTION OF
-THE UNITED STATES AS RATIFIED BY THE STATES
-Preamble to the
-Bill of Rights
-Congress of the United States
-begun and held at the City of New-York, on
-Wednesday the fourth of March,
-THE Conventions of a number of the States, having at
+<p>* Language in brackets has been changed by amendment.</p>
+
+<h2>THE AMENDMENTS TO THE CONSTITUTION OF
+THE UNITED STATES AS RATIFIED BY THE STATES</h2>
+<h3>Preamble to the
+Bill of Rights</h3>
+<h4>Congress of the United States</h4>
+<p>begun and held at the City of New-York, on
+Wednesday the fourth of March,</p>
+<p>THE Conventions of a number of the States, having at
 the time of their adopting the Constitution, expressed
 a desire, in order to prevent misconstruction or abuse
 of its powers, that further declaratory and restrictive
